@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aprende Fácil — Sitio web educativo
 
 Proyecto desarrollado con React + Vite para estudiantes de secundaria y bachillerato.
@@ -56,3 +57,6 @@ Si ya clonaste el repositorio o ya tiene archivos, no ejecutes `git init` ni `gi
 - Sprint 5: pruebas, correcciones, optimización y publicación.
 
 > El contenido se guarda en archivos JavaScript locales. No incluye base de datos, registro de usuarios ni envío real del formulario.
+=======
+# SITIO-WEB-EDUCATIVO
+>>>>>>> 50430c6d9c5ad0f10df97d457579ac10bfc09bab
